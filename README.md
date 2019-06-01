@@ -4,7 +4,7 @@ Details, manual, cookbook: [link to atarionline.pl](http://atarionline.pl/forum/
 Cartridge have been tested with Atari 800XL, 65XE, 130XE, 800XE and 65XE with memory expansion.
 #
 The final result: 
-![Alt text](https://images85.fotosik.pl/357/df63591a3402dd2c.jpg "atari_xl_xe_cartridge")
+![Alt text](https://images86.fotosik.pl/686/b1121755683f8124.jpg "atari_xl_xe_cartridge")
 
 
 
